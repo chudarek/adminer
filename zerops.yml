@@ -1,4 +1,6 @@
 use: [ php@7.4 ]
+
 run:
   - php -v
+  
 deploy: [ "." ]

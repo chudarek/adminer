@@ -1,3 +1,4 @@
 use: [ php@7.4 ]
-# which commands to run to build
+run:
+  - php -v
 deploy: [ "adminer" ]

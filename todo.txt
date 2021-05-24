@@ -29,6 +29,7 @@ MariaDB:
 Documentation links
 
 SQLite:
+
 Copy tables
 Delimiter in export and SQL command
 Backward keys in Editor

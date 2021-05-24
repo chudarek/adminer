@@ -25,6 +25,7 @@ Generated columns (MySQL >= 5.7.6)
 Data longer than max_allowed_packet can be sent by mysqli_stmt_send_long_data()
 
 MariaDB:
+
 Documentation links
 
 SQLite:

@@ -1,0 +1,3 @@
+use: [ php@7.4 ]
+# which commands to run to build
+deploy: [ "src" ]
